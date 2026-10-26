@@ -1,0 +1,35 @@
+{
+  "product": "forever99b",
+  "channel": "windows",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-26",
+      "title": "Cliente 99B Forever 1.0.0",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Primer store OTA de 99B Forever (producto forever99b)."
+        },
+        {
+          "category": "nuevo",
+          "text": "Datos del cliente original 99B más el HUD y forever.main de 99bforever."
+        },
+        {
+          "category": "nuevo",
+          "text": "Conexión al ConnectServer 104.234.63.128:44000."
+        },
+        {
+          "category": "nuevo",
+          "text": "Android: canal `android` / `android-arm64`, APK `com.forever99b.app`."
+        },
+        {
+          "category": "nuevo",
+          "text": "Windows: canal `windows` / `windows-x86`, Main.exe + Data."
+        }
+      ],
+      "download_bytes": 0,
+      "files_changed": 0
+    }
+  ]
+}
