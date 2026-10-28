@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.4",
+      "date": "2026-10-28",
+      "title": "knight_plancrack_b y texturas que seguian faltando",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "knight_plancrack_b, que cerraba el juego justo despues de instalar 1.0.3."
+        },
+        {
+          "category": "nuevo",
+          "text": "Texturas de efecto y skill que el cliente pidio en esa misma carga y el paquete tenia."
+        }
+      ],
+      "download_bytes": 727686,
+      "files_changed": 23
+    },
+    {
       "version": "1.0.3",
       "date": "2026-10-28",
       "title": "Segunda tanda de archivos que el cliente pedia",
