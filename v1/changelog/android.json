@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.3",
+      "date": "2026-10-28",
+      "title": "Segunda tanda de archivos que el cliente pedia",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Archivos que el cliente siguio pidiendo despues de instalar 1.0.2: efectos, skills, items y texturas."
+        },
+        {
+          "category": "nuevo",
+          "text": "Incluye knight_plancrack_a y knight_plancrack_b, que cerraban el juego al cargar."
+        }
+      ],
+      "download_bytes": 104557012,
+      "files_changed": 2303
+    },
+    {
       "version": "1.0.2",
       "date": "2026-10-27",
       "title": "Datos que el cliente pedia y no estaban",
