@@ -3,6 +3,31 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.8",
+      "date": "2026-10-29",
+      "title": "App 1.0.4 - pantalla de carga 99B Forever y escenas de la 99B",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Pantalla de carga nueva con el logo de 99B Forever: fondo oscuro, el logo grande en el centro, una barra dorada fina y el estado debajo. Es la misma al descargar la actualización, al cargar el juego, mientras llegan tus personajes y al entrar al mundo o cambiar de mapa."
+        },
+        {
+          "category": "interfaz",
+          "text": "Al entrar al mundo ya no aparece un nombre de mapa equivocado mientras carga."
+        },
+        {
+          "category": "contenido",
+          "text": "La pantalla de inicio de sesión y la selección de personaje son las de la 99B, las mismas que en la web de PC: el login de la 99B y el Claro de los Héroes, con los personajes sobre el estrado, braseros, luciérnagas y hojas que caen."
+        },
+        {
+          "category": "nuevo",
+          "text": "Versión 1.0.4 de la app. Se instala sola encima de la actual: al terminar la actualización el teléfono pide confirmar la instalación. Con la app anterior el juego sigue funcionando con las escenas de antes hasta que instales la nueva."
+        }
+      ],
+      "download_bytes": 27175745,
+      "files_changed": 562
+    },
+    {
       "version": "1.0.7",
       "date": "2026-10-29",
       "title": "App 1.0.3 - barra de vida como en PC",
