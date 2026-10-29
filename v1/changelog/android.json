@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.7",
+      "date": "2026-10-29",
+      "title": "App 1.0.3 - barra de vida como en PC",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "La barra de vida sobre monstruos y jugadores es la misma que en el cliente de PC: marco fino y relleno rojo con brillo que se oscurece a medida que baja la vida, y la parte dorada del SD en los jugadores."
+        },
+        {
+          "category": "nuevo",
+          "text": "Versión 1.0.3 de la app. Se instala sola encima de la actual: al terminar la actualización el teléfono pide confirmar la instalación."
+        }
+      ],
+      "download_bytes": 6220747,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.6",
       "date": "2026-10-29",
       "title": "App 1.0.2 - HUD, animaciones y controles como en REX",
