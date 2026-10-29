@@ -3,6 +3,63 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.6",
+      "date": "2026-10-29",
+      "title": "App 1.0.2 - HUD, animaciones y controles como en REX",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El juego podía cerrarse de golpe al cargar los modelos del personaje: el player.bmd de 99B trae menos animaciones que las que el cliente espera y se escribía fuera de memoria."
+        },
+        {
+          "category": "correccion",
+          "text": "Lorencia, Devias, Noria y el resto de los mapas clásicos ya no quedan planos ni con el relieve del mapa anterior: el cliente acepta el TerrainHeight.OZB original de 0.99B."
+        },
+        {
+          "category": "correccion",
+          "text": "Los textos y las letras se ven bien después de girar el teléfono o volver a la app desde otra."
+        },
+        {
+          "category": "correccion",
+          "text": "Las animaciones del personaje son las correctas: con alas ya no aparece sentado ni flotando, y volar y nadar se ven bien."
+        },
+        {
+          "category": "correccion",
+          "text": "El inventario muestra el equipo en su lugar, aunque se gire el teléfono o se mueva la ventana."
+        },
+        {
+          "category": "interfaz",
+          "text": "Los íconos de la barra superior mantienen su proporción aunque falten las texturas del HUD móvil."
+        },
+        {
+          "category": "interfaz",
+          "text": "Los botones \"Opciones del helper\" e \"Iniciar helper\" ya no aparecen sin nombre al elegir los accesos rápidos."
+        },
+        {
+          "category": "contenido",
+          "text": "Minimapa y cartel con el nombre del mapa en todos los mapas."
+        },
+        {
+          "category": "contenido",
+          "text": "Barra superior con botón de inventario, joystick hexagonal y botones de pociones y cambio de skill con el arte de REX."
+        },
+        {
+          "category": "contenido",
+          "text": "Ícono y pantalla de carga con el logo de 99B Forever."
+        },
+        {
+          "category": "rendimiento",
+          "text": "Una textura que falta se avisa una sola vez en el registro, no cada vez que se vuelve a cargar el modelo que la usa."
+        },
+        {
+          "category": "nuevo",
+          "text": "Versión 1.0.2 de la app. Se instala sola encima de la actual, sin desinstalar y sin volver a bajar los datos: al terminar la actualización el teléfono pide confirmar la instalación."
+        }
+      ],
+      "download_bytes": 68598298,
+      "files_changed": 701
+    },
+    {
       "version": "1.0.5",
       "date": "2026-10-29",
       "title": "El juego ya no se cierra al terminar la carga",
