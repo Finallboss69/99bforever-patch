@@ -3,6 +3,43 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.5",
+      "date": "2026-10-29",
+      "title": "El juego ya no se cierra al terminar la carga",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El juego se cerraba justo al terminar la carga. Faltaban tablas que el cliente exige al arrancar: diálogos de NPC, progreso y textos de quests, habilidades de monstruos, tooltips de items, movimientos, nombres de NPC, items de socket y créditos."
+        },
+        {
+          "category": "correccion",
+          "text": "ItemSetType.bmd y FilterName.bmd venían en el formato del cliente original y el cliente los rechazaba como corruptos."
+        },
+        {
+          "category": "correccion",
+          "text": "Claves de cifrado (Enc1.dat / Dec2.dat) iguales a las del servidor. Con las anteriores el login no hubiera funcionado."
+        },
+        {
+          "category": "correccion",
+          "text": "Gate.bmd y Glow.gld completos."
+        },
+        {
+          "category": "nuevo",
+          "text": "Modelos de monstruos y NPC que faltaban (sin ellos el juego se cerraba al cruzarse uno)."
+        },
+        {
+          "category": "nuevo",
+          "text": "Textos en español, portugués y vietnamita de diálogos, quests y tooltips."
+        },
+        {
+          "category": "nuevo",
+          "text": "Interfaz, efectos, sonidos y texturas que el cliente pide en el login, la selección y el mundo."
+        }
+      ],
+      "download_bytes": 105282946,
+      "files_changed": 2142
+    },
+    {
       "version": "1.0.4",
       "date": "2026-10-28",
       "title": "knight_plancrack_b y texturas que seguian faltando",

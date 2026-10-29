@@ -3,6 +3,47 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.1",
+      "date": "2026-10-29",
+      "title": "Datos completos del cliente Windows",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "La actualización ya no reemplaza el Main.exe del zip por uno anterior."
+        },
+        {
+          "category": "correccion",
+          "text": "forever.main de Windows en Data/Local (antes bajaba el del celular)."
+        },
+        {
+          "category": "correccion",
+          "text": "Claves de cifrado (Enc1.dat / Dec2.dat) iguales a las del servidor."
+        },
+        {
+          "category": "correccion",
+          "text": "ItemSetType.bmd y FilterName.bmd en el formato que lee el cliente; antes cerraban el juego al cargar."
+        },
+        {
+          "category": "correccion",
+          "text": "Tablas que el cliente exige al arrancar: diálogos de NPC, quests, habilidades de monstruos, tooltips, movimientos, nombres de NPC, items de socket y créditos."
+        },
+        {
+          "category": "contenido",
+          "text": "Interfaz, textos, efectos, sonidos y música iguales a los del cliente web."
+        },
+        {
+          "category": "contenido",
+          "text": "Modelos de monstruos y NPC que faltaban, minimapas de los mapas 99B."
+        },
+        {
+          "category": "contenido",
+          "text": "wzAudio.dll, FreeImage.dll, vorbisfile.dll y ogg.dll también llegan por la actualización."
+        }
+      ],
+      "download_bytes": 621984142,
+      "files_changed": 8810
+    },
+    {
       "version": "1.0.0",
       "date": "2026-10-26",
       "title": "Cliente 99B Forever 1.0.0",
