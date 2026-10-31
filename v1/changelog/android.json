@@ -3,6 +3,27 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.9",
+      "date": "2026-10-30",
+      "title": "App 1.0.5 - registro de cuenta arreglado e instalación más rápida",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Ya se puede crear una cuenta desde la app: antes el registro siempre fallaba."
+        },
+        {
+          "category": "interfaz",
+          "text": "El formulario de registro ahora va a lo ancho, con los botones siempre arriba del teclado."
+        },
+        {
+          "category": "rendimiento",
+          "text": "La primera instalación baja el juego en paquetes grandes y termina mucho más rápido."
+        }
+      ],
+      "download_bytes": 6505178,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.8",
       "date": "2026-10-29",
       "title": "App 1.0.4 - pantalla de carga 99B Forever y escenas de la 99B",
