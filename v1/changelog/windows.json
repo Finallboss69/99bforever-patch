@@ -3,6 +3,47 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.2",
+      "date": "2026-11-05",
+      "title": "Mercado, Aurum y X-Shop",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Mercado y comercio nuevos: publicá tus ítems y comprá los de otros jugadores desde el menú."
+        },
+        {
+          "category": "nuevo",
+          "text": "La moneda del juego se llama Aurum (AU): la usan la X-Shop y el mercado."
+        },
+        {
+          "category": "nuevo",
+          "text": "X-Shop abierta con mascotas, sellos y talismanes."
+        },
+        {
+          "category": "nuevo",
+          "text": "Comando /discord para vincular tu cuenta con el Discord de 99B Forever."
+        },
+        {
+          "category": "correccion",
+          "text": "El Sabio ya no habla de la tercera clase ni de Devin: en 99B la evolución es con Sebina (nivel 150) y Marlon (nivel 220)."
+        },
+        {
+          "category": "correccion",
+          "text": "El menú muestra sólo tu saldo de Aurum."
+        },
+        {
+          "category": "contenido",
+          "text": "Interfaz del menú, del mercado y de la cuenta igual que en el cliente web (texturas que faltaban)."
+        },
+        {
+          "category": "contenido",
+          "text": "Lorencia con la arena en el centro, como en la 99B original."
+        }
+      ],
+      "download_bytes": 717115801,
+      "files_changed": 17317
+    },
+    {
       "version": "1.0.1",
       "date": "2026-10-29",
       "title": "Datos completos del cliente Windows",
