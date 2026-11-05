@@ -3,6 +3,19 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.11",
+      "date": "2026-11-05",
+      "title": "App 1.0.8 - porcentaje de la Chaos Machine",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "La Chaos Machine muestra el porcentaje de éxito y lo actualiza cada vez que agregás o sacás algo de la caja."
+        }
+      ],
+      "download_bytes": 6740289,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.10",
       "date": "2026-11-05",
       "title": "App 1.0.7 - mercado, Aurum y X-Shop",
