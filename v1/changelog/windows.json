@@ -3,6 +3,19 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.3",
+      "date": "2026-11-05",
+      "title": "Porcentaje de la Chaos Machine",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "La Chaos Machine muestra el porcentaje de éxito y lo actualiza cada vez que agregás o sacás algo de la caja (también cuenta la suerte del ítem)."
+        }
+      ],
+      "download_bytes": 3540278,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.2",
       "date": "2026-11-05",
       "title": "Mercado, Aurum y X-Shop",
