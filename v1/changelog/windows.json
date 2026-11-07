@@ -3,6 +3,19 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.4",
+      "date": "2026-11-07",
+      "title": "Dark Horse de la 0.99B",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El Dark Horse del Dark Lord se ve como en la 0.99B: con sus partes doradas y la cabeza que se mueve."
+        }
+      ],
+      "download_bytes": 123930,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.3",
       "date": "2026-11-05",
       "title": "Porcentaje de la Chaos Machine",

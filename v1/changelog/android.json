@@ -3,6 +3,27 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.12",
+      "date": "2026-11-07",
+      "title": "App 1.0.9 - Fire Slash y cajas de Kundun",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Fire Slash: si el objetivo está lejos, el personaje camina hasta él y lo lanza al llegar, apuntando al objetivo y no al lugar donde tocaste."
+        },
+        {
+          "category": "correccion",
+          "text": "Fire Slash: si te falta fuerza, el juego te dice cuánta te falta en vez de no hacer nada."
+        },
+        {
+          "category": "correccion",
+          "text": "«Usar» sobre una Box of Kundun (y las otras cajas que se abren tirándolas) ahora la abre: la tira a tus pies."
+        }
+      ],
+      "download_bytes": 6982134,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.11",
       "date": "2026-11-05",
       "title": "App 1.0.8 - porcentaje de la Chaos Machine",
