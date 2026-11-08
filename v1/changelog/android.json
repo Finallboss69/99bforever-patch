@@ -3,6 +3,19 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.14",
+      "date": "2026-11-08",
+      "title": "App 1.0.11 - Ítems invisibles en la última columna del inventario",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Algunos bastones (Serpent Staff, Chaos Lightning Staff) quedaban invisibles en la columna de la derecha del inventario y no dejaban poner nada ahí: ahora se ven y la columna se puede usar."
+        }
+      ],
+      "download_bytes": 6524449,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.13",
       "date": "2026-11-08",
       "title": "App 1.0.10 - Jugadores que se veían como un árbol",

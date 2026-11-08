@@ -3,6 +3,19 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.6",
+      "date": "2026-11-08",
+      "title": "Ítems invisibles en la última columna del inventario",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Algunos bastones (Serpent Staff, Chaos Lightning Staff) quedaban invisibles en la columna de la derecha del inventario y no dejaban poner nada ahí: ahora se ven y la columna se puede usar."
+        }
+      ],
+      "download_bytes": 3540633,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.5",
       "date": "2026-11-08",
       "title": "Monturas visibles y jugadores sin árbol",
