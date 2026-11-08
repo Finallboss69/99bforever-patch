@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.5",
+      "date": "2026-11-08",
+      "title": "Monturas visibles y jugadores sin árbol",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El Dark Horse y los Fenrir ya no desaparecen mientras atacás: el jinete no queda flotando en el aire."
+        },
+        {
+          "category": "correccion",
+          "text": "A veces otro jugador (o vos mismo) se veía como un tronco de árbol hasta cambiar de mapa: ya no pasa."
+        }
+      ],
+      "download_bytes": 3540211,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.4",
       "date": "2026-11-07",
       "title": "Dark Horse de la 0.99B",
