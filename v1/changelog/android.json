@@ -3,6 +3,39 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.15",
+      "date": "2026-11-09",
+      "title": "App 1.0.12 - Baúl de joyas y quests / Jewel bank and quests",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Baúl de joyas: «Depositar todo» ahora también guarda las joyas con nivel (+1, +2…), no sólo las +0."
+        },
+        {
+          "category": "correccion",
+          "text": "Ventana de quests: ya no muestra texto basura (Magic Gladiator y Dark Lord, o con todas las quests terminadas)."
+        },
+        {
+          "category": "correccion",
+          "text": "Jewel bank: \"Deposit all\" now also stores jewels with a level (+1, +2…), not only +0 ones."
+        },
+        {
+          "category": "correccion",
+          "text": "Quest window: no more garbage text (Magic Gladiator and Dark Lord, or with every quest finished)."
+        },
+        {
+          "category": "contenido",
+          "text": "Nombres de las quests de Marlon corregidos en español, inglés, portugués y vietnamita."
+        },
+        {
+          "category": "contenido",
+          "text": "Marlon quest names fixed in Spanish, English, Portuguese and Vietnamese."
+        }
+      ],
+      "download_bytes": 6774213,
+      "files_changed": 5
+    },
+    {
       "version": "1.0.14",
       "date": "2026-11-08",
       "title": "App 1.0.11 - Ítems invisibles en la última columna del inventario",
