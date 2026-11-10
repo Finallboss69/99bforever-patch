@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.8",
+      "date": "2026-11-09",
+      "title": "Mace of InfraWorld (Mace of King) / New weapon",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Nueva arma: Mace of InfraWorld (la «Mace of King» de la 0.99B) para Blade Knight, con su modelo y su brillo."
+        },
+        {
+          "category": "nuevo",
+          "text": "New weapon: Mace of InfraWorld (the 0.99B \"Mace of King\") for Blade Knight, with its own model and glow."
+        }
+      ],
+      "download_bytes": 327627,
+      "files_changed": 9
+    },
+    {
       "version": "1.0.7",
       "date": "2026-11-09",
       "title": "Baúl de joyas y quests / Jewel bank and quests",
