@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.18",
+      "date": "2026-11-11",
+      "title": "Caja de accesorios en la X-Shop / Accessory Box in the X-Shop",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "X-Shop › Special: Accessory Box (150 Aurum). Tirala al piso y te da un anillo o colgante excelente al azar de la 0.99B, también el Pendant of Lightning."
+        },
+        {
+          "category": "nuevo",
+          "text": "X-Shop › Special: Accessory Box (150 Aurum). Drop it on the ground to get a random excellent 0.99B ring or pendant, the Pendant of Lightning included."
+        }
+      ],
+      "download_bytes": 2777,
+      "files_changed": 2
+    },
+    {
       "version": "1.0.17",
       "date": "2026-11-11",
       "title": "Devil Square, Blood Castle, Fire Slash y app 1.0.13 / Devil Square, Blood Castle, Fire Slash and app 1.0.13",
