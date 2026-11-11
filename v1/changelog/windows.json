@@ -3,6 +3,55 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.9",
+      "date": "2026-11-11",
+      "title": "Devil Square, Blood Castle, inicio 99B y [SELL] / Devil Square, Blood Castle, 99B login and [SELL]",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Devil Square y Blood Castle: la ventana de entrada elige la sala con los niveles de la 0.99B (antes te mandaba a otra sala y no te dejaba entrar)."
+        },
+        {
+          "category": "correccion",
+          "text": "Vuelven la pantalla de inicio y la selección de personaje de 99B (desde el 09/11 salía la escena vieja)."
+        },
+        {
+          "category": "correccion",
+          "text": "Chat clásico: al pasar el mouse por un anuncio [SELL] se ve otra vez la ficha del objeto."
+        },
+        {
+          "category": "correccion",
+          "text": "La ficha de la Mace of InfraWorld ya no dice «Elemental Mace» ni muestra la línea de ataque de mascota."
+        },
+        {
+          "category": "correccion",
+          "text": "Panel de eventos del GM: los premios se ven en Aurum."
+        },
+        {
+          "category": "correccion",
+          "text": "Devil Square and Blood Castle: the entry window picks the room with the 0.99B level ranges (it used to send you to the wrong room and you could not enter)."
+        },
+        {
+          "category": "correccion",
+          "text": "The 99B login and character selection scenes are back (since 11/09 the old scene showed up)."
+        },
+        {
+          "category": "correccion",
+          "text": "Classic chat: hovering a [SELL] post shows the item tooltip again."
+        },
+        {
+          "category": "correccion",
+          "text": "The Mace of InfraWorld tooltip no longer says \"Elemental Mace\" or shows the pet attack line."
+        },
+        {
+          "category": "correccion",
+          "text": "GM event panel: prizes are shown in Aurum."
+        }
+      ],
+      "download_bytes": 3805393,
+      "files_changed": 6
+    },
+    {
       "version": "1.0.8",
       "date": "2026-11-09",
       "title": "Mace of InfraWorld (Mace of King) / New weapon",

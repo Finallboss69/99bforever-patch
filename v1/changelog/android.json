@@ -3,6 +3,55 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.17",
+      "date": "2026-11-11",
+      "title": "Devil Square, Blood Castle, Fire Slash y app 1.0.13 / Devil Square, Blood Castle, Fire Slash and app 1.0.13",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "App 1.0.13: actualizala cuando te lo pida."
+        },
+        {
+          "category": "correccion",
+          "text": "Devil Square y Blood Castle: la ventana de entrada elige la sala con los niveles de la 0.99B (antes te mandaba a otra sala y no te dejaba entrar)."
+        },
+        {
+          "category": "correccion",
+          "text": "Fire Slash: el arco de fuego y las calaveras del golpe se ven completos aunque el celular corra a 120 FPS."
+        },
+        {
+          "category": "correccion",
+          "text": "Panel de eventos del GM: los premios se ven en Aurum."
+        },
+        {
+          "category": "correccion",
+          "text": "La ficha de la Mace of InfraWorld ya no dice «Elemental Mace» ni muestra la línea de ataque de mascota."
+        },
+        {
+          "category": "correccion",
+          "text": "App 1.0.13: update it when asked."
+        },
+        {
+          "category": "correccion",
+          "text": "Devil Square and Blood Castle: the entry window picks the room with the 0.99B level ranges (it used to send you to the wrong room and you could not enter)."
+        },
+        {
+          "category": "correccion",
+          "text": "Fire Slash: the fire arc and the skulls on hit show fully even when the phone runs at 120 FPS."
+        },
+        {
+          "category": "correccion",
+          "text": "GM event panel: prizes are shown in Aurum."
+        },
+        {
+          "category": "correccion",
+          "text": "The Mace of InfraWorld tooltip no longer says \"Elemental Mace\" or shows the pet attack line."
+        }
+      ],
+      "download_bytes": 7056268,
+      "files_changed": 5
+    },
+    {
       "version": "1.0.16",
       "date": "2026-11-09",
       "title": "Mace of InfraWorld (Mace of King) / New weapon",
