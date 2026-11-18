@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.12",
+      "date": "2026-11-18",
+      "title": "Textos con la marca 99B / Texts branded 99B",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Los textos en japonés, tailandés y chino ya no nombran a otro servidor."
+        },
+        {
+          "category": "correccion",
+          "text": "Japanese, Thai and Chinese texts no longer mention another server."
+        }
+      ],
+      "download_bytes": 232006,
+      "files_changed": 3
+    },
+    {
       "version": "1.0.11",
       "date": "2026-11-18",
       "title": "X-Shop siempre al día / X-Shop always up to date",
