@@ -3,6 +3,39 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.20",
+      "date": "2026-11-18",
+      "title": "Todo con la marca 99B / Everything branded 99B",
+      "entries": [
+        {
+          "category": "interfaz",
+          "text": "Nuevo ícono de la app con el emblema de 99B."
+        },
+        {
+          "category": "interfaz",
+          "text": "New app icon with the 99B emblem."
+        },
+        {
+          "category": "interfaz",
+          "text": "La pantalla de inicio suma los botones Discord y Web (privacidad, términos y borrar tu cuenta)."
+        },
+        {
+          "category": "interfaz",
+          "text": "The launcher now has Discord and Web buttons (privacy, terms and account deletion)."
+        },
+        {
+          "category": "correccion",
+          "text": "Los textos del juego ya no nombran a otro servidor: ayudante de caza, staff, X-Shop y tooltips dicen 99B."
+        },
+        {
+          "category": "correccion",
+          "text": "Game texts no longer mention another server: auto-hunt helper, staff, X-Shop and tooltips now say 99B."
+        }
+      ],
+      "download_bytes": 7410112,
+      "files_changed": 8
+    },
+    {
       "version": "1.0.19",
       "date": "2026-11-18",
       "title": "X-Shop siempre al día / X-Shop always up to date",
