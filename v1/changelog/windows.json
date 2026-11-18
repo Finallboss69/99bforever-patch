@@ -3,6 +3,39 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.11",
+      "date": "2026-11-18",
+      "title": "X-Shop siempre al día / X-Shop always up to date",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "La X-Shop se actualiza sola: cuando el staff cambia precios, nombres o paquetes, el juego te baja la lista nueva al entrar, sin esperar un parche."
+        },
+        {
+          "category": "nuevo",
+          "text": "The X-Shop now updates itself: when the staff changes prices, names or packages, the game downloads the new list when you log in, no patch needed."
+        },
+        {
+          "category": "nuevo",
+          "text": "Tiendas de NPC con más de una página: lo que no entra en la grilla sigue en la página siguiente."
+        },
+        {
+          "category": "nuevo",
+          "text": "NPC shops with more than one page: whatever does not fit in the grid continues on the next page."
+        },
+        {
+          "category": "nuevo",
+          "text": "Se ven los sets Great Dragon, Dark Soul, Hurricane, Red Spirit y Dark Master de la Box of Kundun +5 y el Sylph Wind Bow del Phoenix of Darkness."
+        },
+        {
+          "category": "nuevo",
+          "text": "The Great Dragon, Dark Soul, Hurricane, Red Spirit and Dark Master sets from the Box of Kundun +5 and the Sylph Wind Bow from the Phoenix of Darkness show up correctly."
+        }
+      ],
+      "download_bytes": 3504534,
+      "files_changed": 3
+    },
+    {
       "version": "1.0.10",
       "date": "2026-11-11",
       "title": "Caja de accesorios en la X-Shop / Accessory Box in the X-Shop",
