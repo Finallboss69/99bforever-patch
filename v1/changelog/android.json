@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.21",
+      "date": "2026-11-19",
+      "title": "Pactos VIP desde el juego / VIP pacts in game",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Menú › VIP: se pueden sellar los pactos VIP (Escudero, Caballero y Señor) con Aurum sin salir del juego, con los mismos precios y días que la web."
+        },
+        {
+          "category": "nuevo",
+          "text": "Menu › VIP: you can seal the VIP pacts (Squire, Knight and Lord) with Aurum without leaving the game, at the same prices and days as the website."
+        }
+      ],
+      "download_bytes": 159727,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.20",
       "date": "2026-11-18",
       "title": "Todo con la marca 99B / Everything branded 99B",
