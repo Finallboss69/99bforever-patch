@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.13",
+      "date": "2026-11-19",
+      "title": "Chaos Machine con su porcentaje / Chaos Machine shows its rate",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "La Chaos Machine vuelve a mostrar el porcentaje de éxito de cada mezcla; el nombre de la receta ya no se pisa con el porcentaje."
+        },
+        {
+          "category": "correccion",
+          "text": "The Chaos Machine shows each mix's success rate again; the recipe name no longer overlaps the rate."
+        }
+      ],
+      "download_bytes": 3501853,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.12",
       "date": "2026-11-18",
       "title": "Textos con la marca 99B / Texts branded 99B",
