@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.14",
+      "date": "2026-11-19",
+      "title": "Textos con la fuente correcta / Text with the right font",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Ninguna ventana vuelve a mostrar textos con una letra gigante o cortados por quedar puesta la fuente de otra ventana (era lo que le sacaba el porcentaje a la Chaos Machine)."
+        },
+        {
+          "category": "correccion",
+          "text": "No window shows text in an oversized or clipped font left over from another window anymore (this is what hid the Chaos Machine rate)."
+        }
+      ],
+      "download_bytes": 3535391,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.13",
       "date": "2026-11-19",
       "title": "Chaos Machine con su porcentaje / Chaos Machine shows its rate",
