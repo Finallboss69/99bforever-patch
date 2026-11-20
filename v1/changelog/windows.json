@@ -3,6 +3,23 @@
   "channel": "windows",
   "releases": [
     {
+      "version": "1.0.16",
+      "date": "2026-11-20",
+      "title": "Wings of Satan para el Dark Lord / Wings of Satan for the Dark Lord",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El Dark Lord ya puede equiparse las Wings of Satan."
+        },
+        {
+          "category": "correccion",
+          "text": "The Dark Lord can now equip the Wings of Satan."
+        }
+      ],
+      "download_bytes": 87409,
+      "files_changed": 4
+    },
+    {
       "version": "1.0.15",
       "date": "2026-11-19",
       "title": "Pactos VIP desde el juego / VIP pacts in game",

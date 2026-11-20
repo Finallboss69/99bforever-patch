@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.25",
+      "date": "2026-11-20",
+      "title": "Wings of Satan para el Dark Lord / Wings of Satan for the Dark Lord",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "El Dark Lord ya puede equiparse las Wings of Satan."
+        },
+        {
+          "category": "correccion",
+          "text": "The Dark Lord can now equip the Wings of Satan."
+        }
+      ],
+      "download_bytes": 87409,
+      "files_changed": 4
+    },
+    {
       "version": "1.0.24",
       "date": "2026-11-20",
       "title": "Barras de experiencia y maná / Experience and mana bars",
