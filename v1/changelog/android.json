@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.23",
+      "date": "2026-11-20",
+      "title": "Ranking en el menú / Ranking in the menu",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Menú › Rankings: el ranking del reino (el mismo del F8 en PC) ahora está en el celular."
+        },
+        {
+          "category": "nuevo",
+          "text": "Menu › Rankings: the realm ranking (the same as F8 on PC) is now on mobile."
+        }
+      ],
+      "download_bytes": 6654351,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.22",
       "date": "2026-11-20",
       "title": "Reconexión en los reinicios / Reconnect on server restarts",
