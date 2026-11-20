@@ -3,6 +3,23 @@
   "channel": "android",
   "releases": [
     {
+      "version": "1.0.22",
+      "date": "2026-11-20",
+      "title": "Reconexión en los reinicios / Reconnect on server restarts",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Cuando el servidor se actualiza, ya no te saca del juego: queda «reconectando» unos segundos y volvés solo al mismo personaje y lugar."
+        },
+        {
+          "category": "nuevo",
+          "text": "When the server updates, it no longer kicks you out: it shows \"reconnecting\" for a few seconds and puts you back on the same character and spot."
+        }
+      ],
+      "download_bytes": 7071955,
+      "files_changed": 1
+    },
+    {
       "version": "1.0.21",
       "date": "2026-11-19",
       "title": "Pactos VIP desde el juego / VIP pacts in game",
